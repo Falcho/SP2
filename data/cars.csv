@@ -1,0 +1,8 @@
+Motor, Make, Model, Registration number, Km/l, Max range, battery capacity, Has particle filter, Number of doors
+Electric, Tesla, Y, 3, , 533, 60, , 3
+Electric, Skoda, Enyaq Premium 85, 6, , 557, 82, , 5
+Gasoline, Audi, A8, 1, 6, , , , 3
+Gasoline, Porsche, 911 Carrera, 4, 4, , , , 3
+Diesel, Skoda, Fabia, 2, 23, , , false, 5
+Diesel, VolksWagen, Passat, 5, 22, , , true, 5
+Diesel, Mowag, Piranha 5, 7, 2, , , true, 3
